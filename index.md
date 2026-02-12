@@ -26,22 +26,22 @@ I am a fourth-year PhD student in the Statistical Science department at Duke Uni
    St. Xavier's College (Autonomous college under Calcutta University), India
 
 ## Teaching
-   - **STA 210: **, Spring 2023
+   - **STA 210: Regresssion Analysis**, Spring 2023
       <br>
      Instructor: [Yue Jiang](https://www.yue-jiang.com)
-   - **STA 211: **, Fall 2023
+   - **STA 211: The Mathematics of Regression**, Fall 2023
       <br>
      Instructor: [Miheer Dewaskar](https://miheerdewaskar.com)
-   - **STA 532: **, Spring 2024
+   - **STA 532: Theory of Statistical Inference**, Spring 2024
       <br>
      Instructor: [Surya Tokdar](http://www2.stat.duke.edu/~st118/)
-   - **STA 310: **, Spring 2025
+   - **STA 310: Generalized Linear Model**, Spring 2025
       <br>
      Instructor: [Rebecca Steorts](https://resteorts.github.io)
-   - **STA 198CNL: **, Fall 2025
+   - **STA 198CNL: Introduction to Global Health Data Science**, Fall 2025
       <br>
      Instructor: [Yue Jiang](https://www.yue-jiang.com)
-   - **STA 332: **, Spring 2026
+   - **STA 332: Statistical Inference**, Spring 2026
       <br>
      Instructor: [Sifan Liu](https://liusf15.github.io/index.html)
 
