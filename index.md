@@ -1,10 +1,11 @@
 ---
 layout: homepage
 ---
-## Welcome
+## Welcome!
 
-I am a fourth-year PhD student in the Statistical Science department at Duke University. I am currently working in Epidemiology and Phylodynamic Inference with Dr. [Jason Xu](https://jasonxu90.github.io) and Dr. [Alexander A. Fisher](https://athos00.github.io). I am specifically interested in developing methodologies within a likelihood-based framework. I am interested in identifying how we can improve the inference of epidemic parameters when we additionally have sequence 
-During my Master's, I was fortunate to work with Dr. Dootika Vats, when my interest in research was largely developed.
+I am a fourth-year PhD student in the Statistical Science department at Duke University, working with Dr. [Jason Xu](https://jasonxu90.github.io) and Dr. [Alexander A. Fisher](https://athos00.github.io). Broadly, I am interested in developing likelihood-based methodologies for stochastic models. Currently, my research lies in the intersection of **Epidemiology and Phylodynamic Inference**. I am working on the problem of missing data in epidemiology and am trying to determine how to improve the inference of epidemic parameters when we also have sequence data alongside case-count data.
+
+I grew up in Kolkata, India, where I also completed my undergraduate and master's degrees. During my Master’s studies, I had the privilege of working with Dr. [Dootika Vats](https://dvats.github.io), an experience that profoundly shaped my research interests and perspective. At that time, I explored estimating the spectral gap of the Polya-Gamma Sampler and the importance sampling estimator. 
 
 
 ## Publications
