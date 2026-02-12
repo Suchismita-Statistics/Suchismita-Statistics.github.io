@@ -2,4 +2,14 @@ title: Suchismita Roy
 position: Ph.D. Student
 affiliation: Duke University
 email: suchismita.roy@duke.edu
+keywords: minimal academic
+google_scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuZB1sxktr6momp9B-ctxN7lsI6nuq6QcIqjriZQB4meNRqnW7uxeXduWBwrDrmxDTtVx-p59kMX34gW0-ZuU48H&user=vjqMsOYAAAAJ
+linkedin: https://www.linkedin.com/
+cv_link: ./https://drive.google.com/file/d/1LtGFtKtlIMeJNlnYS9ZZLRzqtai5SwDL/view?usp=sharing
+avatar: ./assets/img/avatar.png
+google_analytics: UA-111540567-4
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Strata Academic is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://strata-academic.yyliu.net/
 remote_theme: yaoyao-liu/strata-academic
