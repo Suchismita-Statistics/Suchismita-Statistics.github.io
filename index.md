@@ -20,13 +20,13 @@ I grew up in Kolkata, India, and completed my undergraduate and master's degrees
 
 ## Education
 - **Ph.D. in Statistics, 2022 - 2027 (Expected)**
-   <be>
+   <br>
    [Duke University](https://duke.edu), United States
 - **Master's in Statistics, 2020 - 2022**
-   <be>
+   <br>
   [Indian Institute of Technology Kanpur](https://www.iitk.ac.in), India
 - **B.Sc. in Statistics, 2017 - 2020**
-   <be>
+   <br>
    [St. Xavier's College](https://www.sxccal.edu) (Autonomous college under Calcutta University), India
 
 ## Teaching Assistant Experience
