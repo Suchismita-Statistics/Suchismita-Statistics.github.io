@@ -3,9 +3,9 @@ layout: homepage
 ---
 ## Welcome!
 
-I am a fourth-year PhD student in the Statistical Science department at Duke University, working with Dr. [Jason Xu](https://jasonxu90.github.io) and Dr. [Alexander A. Fisher](https://athos00.github.io). Broadly, I am interested in developing likelihood-based methodologies for stochastic models. Currently, my research lies in the intersection of **Epidemiology and Phylodynamic Inference**. I am working on the problem of missing data in epidemiology and am trying to determine how to improve the inference of epidemic parameters when we also have sequence data alongside case-count data.
+I am a fourth-year PhD student in the [Department of Statistical Science](https://stat.duke.edu) at Duke University, working with Dr. [Jason Xu](https://jasonxu90.github.io) and Dr. [Alexander A. Fisher](https://athos00.github.io). Broadly, I am interested in developing likelihood-based methodologies for stochastic models. Currently, my research lies at the intersection of **epidemiology and phylodynamic inference**. Stochastic epidemic models evolve in continuous time, while available data are typically reported in aggregated daily or weekly counts. Part of my work involves developing computationally efficient and flexible approaches to address this fundamental missing-data challenge. I am also exploring how incorporating sequence data alongside case-count data can improve inference of key epidemic parameters and provide a more comprehensive understanding of disease dynamics.
 
-I grew up in Kolkata, India, where I also completed my undergraduate and master's degrees. During my Master’s studies, I had the privilege of working with Dr. [Dootika Vats](https://dvats.github.io), an experience that profoundly shaped my research interests and perspective. At that time, I explored estimating the spectral gap of the Polya-Gamma Sampler and the importance sampling estimator. 
+I grew up in Kolkata, India, where I also completed my undergraduate and master's degrees. During my Master’s studies, I had the privilege of working with Dr. [Dootika Vats](https://dvats.github.io), an experience that profoundly shaped my research interests and perspective. Under her mentorship, I explored theoretical and computational questions in Markov chain Monte Carlo, including estimating the spectral gap of the Polya–Gamma sampler and developing importance sampling estimators for the Metropolis-within-Gibbs chain.
 
 
 ## Publications
@@ -20,14 +20,14 @@ I grew up in Kolkata, India, where I also completed my undergraduate and master'
 
 ## Education
 - **Ph.D. in Statistics, 2022 - 2027 (Expected)**
-   <br>
-   Duke University, United States
+   <be>
+   [Duke University](https://duke.edu), United States
 - **Master's in Statistics, 2020 - 2022**
-   <br>
-  Indian Institute of Technology Kanpur, India
+   <be>
+  [Indian Institute of Technology Kanpur](https://www.iitk.ac.in), India
 - **B.Sc. in Statistics, 2017 - 2020**
-   <br>
-   St. Xavier's College (Autonomous college under Calcutta University), India
+   <be>
+   [St. Xavier's College](https://www.sxccal.edu) (Autonomous college under Calcutta University), India
 
 ## Teaching Assistant Experience
    - **STA 210: Regresssion Analysis**, Spring 2023
